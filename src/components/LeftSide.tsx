@@ -3,7 +3,7 @@ import { FcGoogle } from "react-icons/fc";
 
 export default function LeftSide() {
   return (
-    <div className="bg-[#4E1B60] h-full flex flex-col items-center justify-center relative">
+    <div className="bg-[#4E1B60] h-full flex flex-col items-center justify-center relative p-12">
       <div className="absolute top-0 left-0 w-full h-full overflow-hidden">
         <svg
           width="150"

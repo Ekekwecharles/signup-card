@@ -2,7 +2,7 @@ import { FaArrowRight } from "react-icons/fa6";
 
 export default function RightSide() {
   return (
-    <div className="h-full bg-[#260C30] flex flex-col items-center justify-center">
+    <div className="h-full bg-[#260C30] flex flex-col items-center justify-center p-12">
       <div className="w-[80%] mx-auto max-w-[400px]">
         <div>
           <img src="/sponsors.png" height="150" width="250" alt="Sponsors" />
